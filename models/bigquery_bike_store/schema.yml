@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: bike_store
+    description: 'Relational bike store database downloaded from Kaggle.'
+    tables:
+      - name: customers
+      - name: products
+      - name: categories
+      - name: orders
+      - name: order_items
+      - name: stores
+      - name: stocks
+      - name: staffs
+      - name: brands
